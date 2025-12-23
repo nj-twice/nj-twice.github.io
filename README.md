@@ -10,7 +10,8 @@ I especially like these technologies (in no particular order):
 - [Nix+NixOS](https://nixos.org/)
 - [Typst](https://typst.app/)
 
-# Other places
+# Where to find me
 
-You can find me elsewhere:
+You can find me on these platforms:
+- [GitHub](https://github.com/nj-twice)
 - [Instagram](https://www.instagram.com/nj.prime)

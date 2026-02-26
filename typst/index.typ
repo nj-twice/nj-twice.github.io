@@ -1,3 +1,5 @@
+#image("assets/under_construction.svg", width: 100%)
+
 = Welcome
 
 Hi! I'm NJ.

@@ -17,4 +17,4 @@ I especially like these technologies (in no particular order):
 You can find me on these platforms:
 - #link("https://github.com/nj-twice")[GitHub]
 - #link("https://www.youtube.com/@nj_null")[YouTube]
-- #link("https://www.instagram.com/nj.prime")[Instagram]
+- #link("https://www.instagram.com/nj.null")[Instagram]
